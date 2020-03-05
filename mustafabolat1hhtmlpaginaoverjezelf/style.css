@@ -1,0 +1,230 @@
+/* de body tag*/
+body {
+	background-color: green;
+}
+
+
+
+/* de div tag*/
+div.a {
+	background-color: black;
+	text-align: center;
+}
+
+div.b {
+	background-color: black;
+	padding-left: 20px;
+}
+
+div.c {
+	background-color: black;
+}
+
+div.d {
+	background-color: black;
+    text-align: center;
+}
+
+div.e {
+	background-color: red;
+	text-align: center;
+	line-height: 60px;
+}
+
+div.f {
+	background-color: black;
+}
+
+/* de h1 tag*/
+#a {
+	color: white;
+	text-align: center;
+}
+
+
+
+/*de h2 tag*/
+#a {
+	color: white;
+}
+
+#b {
+	color: white;
+	text-align: center;
+}
+
+#c {
+	color: white;
+}
+
+
+
+/*de h3 tag*/
+#h3 {
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+#h3 {
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+#h3 {
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+
+
+/* de li tag*/
+li.a {
+	color: white;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+li.b {
+	color: white;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+li.c {
+	color: white;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+li.d {
+	color: white;
+	font-family: monospace;
+}
+
+li.e {
+	color: white;
+	font-family: monospace;
+}
+
+li.f {
+	color: white;
+	font-family: monospace;
+}
+
+
+
+/*de b tag*/
+b.a {
+	font-size: 16px
+	font-family: monospace;
+}
+
+b.b {
+	font-size: 16px;
+}
+
+b.c {
+	font-size: 16px;
+}
+
+b.d {
+	font-size: 16px;
+}
+
+
+
+/* de p tag*/
+p {
+	color: white;
+	font-family: cursive;
+}
+
+p.a {
+	color: white;
+	font-size: 20px;
+}
+
+
+
+/* de a href tag*/
+
+a.home {
+	color: white;
+	font-family: cursive;
+	text-align: center; 
+	font-size: 20px;
+	
+	background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+a.a {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 20px;
+
+	background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+a.b {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 20px;
+
+	background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+a.c {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 20px;
+
+	background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
+
+/*img tag*/
+
+img.gmail {
+	width: 200px; 
+	height: 200px;
+}
+
+img.a {
+	text-align: center;
+}
+

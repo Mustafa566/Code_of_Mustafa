@@ -1,0 +1,90 @@
+body {
+	background-color: green;
+}
+
+.header {
+	background-color: white;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: red;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: black;}
+
+.welkm {
+	background-color: white;
+}
+
+.assor {
+	background-color: white;
+}
+
+.rij {
+	background-color: white;
+	height: 300px;
+}
+
+th {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+.index {
+	background-color: red;
+	opacity: 0.9;
+}
+
+.brief {
+	color: white;
+	background-color: green;
+	width: 870px;
+	height: 850px;
+}
+
+.brief2 {
+	color: white;
+	background-color: green;
+	width: 870px;
+	height: 850px;
+}
+

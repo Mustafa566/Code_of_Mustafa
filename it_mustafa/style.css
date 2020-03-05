@@ -1,0 +1,27 @@
+body {
+    background-color: green;
+}
+
+/*Naam van mezelf*/
+.h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 42px;
+    text-align: center;
+}
+
+/*Galerij*/
+.mySlides {
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    border: 3px solid red;
+}
+
+.slide {
+    padding-left: 25%;
+}
+
+.button {
+    padding-left: 33%;
+}
+

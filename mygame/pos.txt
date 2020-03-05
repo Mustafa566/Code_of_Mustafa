@@ -1,0 +1,15 @@
+Q:
+x: 80 pixels
+y: 598 pixels
+
+W:
+x: 370 pixels
+y: 598 pixels
+
+E:
+x: 665 pixels
+y: 598 pixels
+
+R:
+x: 950 pixels
+y: 598 pixels

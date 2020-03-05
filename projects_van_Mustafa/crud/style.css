@@ -1,0 +1,13 @@
+table, th, td {
+	border: 1px solid black;
+}
+
+body {
+    background-color: aqua
+}
+
+.tabel {
+    background-color: red;
+    width: 800px;
+}
+
